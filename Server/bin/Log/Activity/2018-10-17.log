@@ -1,0 +1,429 @@
+20:33:38::951 10-17-2018
+host: Server_Listener
+activity: Initialing timer....
+
+20:33:38::956 10-17-2018
+host: Server_Listener
+activity: Initialing tree....
+
+20:33:38::961 10-17-2018
+host: Server_Listener
+activity: Initial timer completed
+
+20:33:38::970 10-17-2018
+host: Listener
+activity: Refreshing notification completed.
+
+20:33:38::984 10-17-2018
+host: Server_Listener
+activity: Initialing BlackList......
+
+20:33:38::993 10-17-2018
+host: Server_Listener
+activity: Initial BlackList completed.
+
+20:33:39::003 10-17-2018
+host: Server_Listener
+activity: Initialing WhiteList......
+
+20:33:39::010 10-17-2018
+host: Server_Listener
+activity: Initial WhiteList completed.
+
+20:33:39::039 10-17-2018
+host: Msg_deliver
+activity: Mainhall UDP opened.
+
+20:33:42::563 10-17-2018
+host: Server_Listener
+activity: Initial BplusTree completed.
+Costing 3s.
+
+20:33:42::576 10-17-2018
+host: Server_Listener
+activity: Listening the port...
+
+20:33:51::268 10-17-2018
+host: Server_Listener
+activity: IP: 127.0.0.1
+White IP trying to login.
+
+20:33:52::278 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+Trying Login.
+
+20:33:52::290 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+Login succeeded.
+
+20:33:52::694 10-17-2018
+host: Msg_deliver
+activity: After append id 10000001. Online: 1
+
+20:34:06::130 10-17-2018
+host: Server_Listener
+activity: IP: 127.0.0.1
+White IP trying to login.
+
+20:34:06::816 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+Trying Login.
+
+20:34:06::821 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+Login succeeded.
+
+20:34:07::266 10-17-2018
+host: Msg_deliver
+activity: After append id 10000002. Online: 2
+
+20:34:25::409 10-17-2018
+host: Server_Listener
+activity: IP: 127.0.0.1
+White IP trying to login.
+
+20:34:26::187 10-17-2018
+host: id: 100000003
+activity: 127.0.0.1
+Trying Login.
+
+20:34:26::193 10-17-2018
+host: id: 100000003
+activity: 127.0.0.1
+Login failed.
+
+20:34:26::198 10-17-2018
+host: id: 100000003
+activity: 127.0.0.1
+Closing...
+
+20:34:26::203 10-17-2018
+host: id: 100000003
+activity: 127.0.0.1
+Closed complete.
+
+20:34:29::091 10-17-2018
+host: Server_Listener
+activity: IP: 127.0.0.1
+White IP trying to login.
+
+20:34:29::104 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+Trying Login.
+
+20:34:29::109 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+Login succeeded.
+
+20:34:29::566 10-17-2018
+host: Msg_deliver
+activity: After append id 10000003. Online: 3
+
+20:34:31::634 10-17-2018
+host: Now
+activity: landlord_size: 1
+gobang_size: 0
+
+20:34:31::640 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+Select Landlord.
+
+20:34:32::375 10-17-2018
+host: Now
+activity: landlord_size: 2
+gobang_size: 0
+
+20:34:32::381 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+Select Landlord.
+
+20:34:33::354 10-17-2018
+host: Now
+activity: landlord_size: 3
+gobang_size: 0
+
+20:34:33::359 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+Select Landlord.
+
+20:34:34::162 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+(Landlord) Sit down. Table 0.
+
+20:34:35::184 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+(Landlord) Sit down. Table 0.
+
+20:34:35::910 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+(Landlord) Sit down. Table 0.
+
+20:34:37::613 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+(Landlord) Ready. Table 0.
+
+20:34:38::275 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+(Landlord) Ready. Table 0.
+
+20:35:58::122 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+(Landlord) Ready. Table 0.
+
+20:35:58::122 10-17-2018
+host: Landlord Table 0
+activity: Countdown in 3 seconds......
+
+20:36:01::178 10-17-2018
+host: Landlord Table 0
+activity: Start the game!
+
+20:36:46::898 10-17-2018
+host: id: 10000003
+activity: Connection closed.
+
+20:36:46::904 10-17-2018
+host: Landlord Table 0
+activity: id: 10000003 Stop the game! 
+
+20:36:46::904 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+Closing...
+
+20:36:46::910 10-17-2018
+host: Msg_deliver
+activity: After remove id 10000003. Online: 2
+
+20:36:46::921 10-17-2018
+host: Now
+activity: landlord_size: 2
+gobang_size: 0
+
+20:36:46::927 10-17-2018
+host: id: 10000003
+activity: 127.0.0.1
+Closed complete.
+
+20:36:54::716 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+(Landlord) Stand up. Table 0.
+
+20:36:54::757 10-17-2018
+host: Now
+activity: landlord_size: 1
+gobang_size: 0
+
+20:36:54::764 10-17-2018
+host: Now
+activity: landlord_size: 1
+gobang_size: 1
+
+20:36:54::772 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+Select Gobang.
+
+20:36:56::291 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+(Landlord) Stand up. Table 0.
+
+20:36:56::334 10-17-2018
+host: Now
+activity: landlord_size: 0
+gobang_size: 1
+
+20:36:56::341 10-17-2018
+host: Now
+activity: landlord_size: 0
+gobang_size: 2
+
+20:36:56::346 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+Select Gobang.
+
+20:36:57::418 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+(Gobang) Sit down. Table 0.
+
+20:36:59::249 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+(Gobang) Sit down. Table 0.
+
+20:37:08::670 10-17-2018
+host: id: 10000002
+activity: Connection closed.
+
+20:37:08::676 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+Closing...
+
+20:37:08::681 10-17-2018
+host: Msg_deliver
+activity: After remove id 10000002. Online: 1
+
+20:37:08::690 10-17-2018
+host: Now
+activity: landlord_size: 0
+gobang_size: 1
+
+20:37:08::696 10-17-2018
+host: id: 10000002
+activity: 127.0.0.1
+Closed complete.
+
+20:37:22::895 10-17-2018
+host: Server_Listener
+activity: IP: 127.0.0.1
+White IP trying to login.
+
+20:37:23::674 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+Trying Login.
+
+20:37:23::681 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+Login succeeded.
+
+20:37:24::127 10-17-2018
+host: Msg_deliver
+activity: After append id 10000008. Online: 2
+
+20:37:26::418 10-17-2018
+host: Now
+activity: landlord_size: 0
+gobang_size: 2
+
+20:37:26::427 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+Select Gobang.
+
+20:37:28::085 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+(Gobang) Sit down. Table 0.
+
+20:37:28::992 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+(Gobang) Ready. Table 0.
+
+20:37:30::022 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+(Gobang) Ready. Table 0.
+
+20:37:30::023 10-17-2018
+host: Gobang Table 0
+activity: Countdown in 3 seconds......
+
+20:37:33::077 10-17-2018
+host: Gobang Table 0
+activity: Start the game!
+
+20:38:04::425 10-17-2018
+host: Gobang Table 0
+activity: Game Over! 
+
+20:38:07::457 10-17-2018
+host: id: 10000008
+activity: Connection closed.
+
+20:38:07::463 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+Closing...
+
+20:38:07::467 10-17-2018
+host: Msg_deliver
+activity: After remove id 10000008. Online: 1
+
+20:38:07::475 10-17-2018
+host: Now
+activity: landlord_size: 0
+gobang_size: 1
+
+20:38:07::482 10-17-2018
+host: id: 10000008
+activity: 127.0.0.1
+Closed complete.
+
+20:38:08::128 10-17-2018
+host: Server_Listener
+activity: Port closed.
+
+20:38:08::136 10-17-2018
+host: Msg_deliver
+activity: Mainhall UDP closed.
+
+20:38:08::142 10-17-2018
+host: Msg_deliver
+activity: Mainhall UDP closed.
+
+20:38:08::152 10-17-2018
+host: Listener
+activity: Logout all clients now.
+
+20:38:08::160 10-17-2018
+host: Listener
+activity: Logout all completed.
+
+20:38:08::167 10-17-2018
+host: Listener
+activity: Timer closed.
+
+20:38:08::175 10-17-2018
+host: Server_Listener
+activity: Refreshing system database......
+
+20:38:08::180 10-17-2018
+host: id: 10000001
+activity: Connection closed.
+
+20:38:08::187 10-17-2018
+host: Server_Listener
+activity: 10000001 now is offline.
+
+20:38:08::193 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+Closing...
+
+20:38:08::207 10-17-2018
+host: Now
+activity: landlord_size: 0
+gobang_size: 0
+
+20:38:08::220 10-17-2018
+host: id: 10000001
+activity: 127.0.0.1
+Closed complete.
+
+20:38:10::826 10-17-2018
+host: MAIN
+activity: System is forced to logout!
+
